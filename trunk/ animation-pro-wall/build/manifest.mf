@@ -1,0 +1,8 @@
+MIDlet-1: AnimationPro,/images/icon.png,Control.MakeGif
+MIDlet-Permissions-Opt: javax.microedition.amms.control.camera.enableShutterFeedback, javax.microedition.amms.control.tuner.setPreset
+MIDlet-Permissions: javax.microedition.io.Connector.file.write, javax.microedition.io.Connector.file.read, javax.microedition.media.control.VideoControl.getSnapshot
+MIDlet-Vendor: Vu Van Tuong
+MIDlet-Name: AnimationPro
+MIDlet-Version: 2.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
